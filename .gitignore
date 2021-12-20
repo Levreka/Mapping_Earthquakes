@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# Ignore the config.js file.
+config.js
+
 # Log file
 *.log
 
